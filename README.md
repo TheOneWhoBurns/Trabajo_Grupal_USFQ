@@ -2,5 +2,5 @@
 Trabajo grupal 
 
 Andrés Martínez
-Mateo Ruiz Dávalos
+Mateo Ruiz Dávila
 Esteban Alvarado
